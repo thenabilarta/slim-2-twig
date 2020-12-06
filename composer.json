@@ -1,0 +1,15 @@
+{
+    "name": "thena/slim-app",
+    "description": "Slim",
+    "authors": [
+        {
+            "name": "thenabilarta",
+            "email": "thenabilarta@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "~2.0",
+        "slim/views": "0.1.*",
+        "twig/twig": "1.18.*"
+    }
+}
